@@ -1,5 +1,5 @@
 # Banana-Collector
-<b><font-color='#ffff55'>Navigate to collect Bananas : This is first project for Udacity Deep Reinforcement Learning Nanodegree.</font-color></b> 
+<b><font color='#ffff55'>Navigate to collect Bananas : This is first project for Udacity Deep Reinforcement Learning Nanodegree.</font></b> 
 
 ### Objective
 Objective is to Collect Yellow bananas and avoid Blue bananas. There is +1 reward for a yellew banana and -1 is given as penalty if a blue banana is collected.
