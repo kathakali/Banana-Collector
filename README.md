@@ -1,7 +1,7 @@
 # Banana-Collector
 <b>Navigate to collect Bananas : This is first project for Udacity Deep Reinforcement Learning Nanodegree.</b> 
 
-![Bananas](BlueBanana.jpg | width=200)
+![Bananas](BlueBanana.jpg) {:height="200px" width="133px"}.
 
 
 ### Objective
