@@ -2,6 +2,7 @@
 <b>Navigate to collect Bananas : This is first project for Udacity Deep Reinforcement Learning Nanodegree.</b> 
 
 ![Bananas](https://commons.wikimedia.org/wiki/File:BlueBanana.jpg)
+Format: ![Alt Text](url)
 
 ### Objective
 Objective is to Collect Yellow bananas and avoid Blue bananas. There is +1 reward for a yellew banana and -1 is given as penalty if a blue banana is collected.
