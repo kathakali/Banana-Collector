@@ -28,4 +28,4 @@ Notebook with code : Navigation.ipynb
 
 Notebook for Average 16 Points: Navigation-16 Points.ipynb
 
-Project Report: Navigation Project Report.pdf
+Project Report: Report.pdf
