@@ -25,5 +25,7 @@ The agent has to learn how to best select actions. To complete the task, agent n
 
 ### File Description
 Notebook with code : Navigation.ipynb
+
 Notebook for Average 16 Points: Navigation-16 Points.ipynb
+
 Project Report: Navigation Project Report.pdf
