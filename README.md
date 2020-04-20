@@ -21,3 +21,9 @@ The state space has 37 dimensions and contains the agent's velocity, along with 
 
 ### Episodic Task
 The agent has to learn how to best select actions. To complete the task, agent needs an average score of +13 over 100 consecutive episodes.
+
+
+### File Description
+Notebook with code : Navigation.ipynb
+Notebook for Average 16 Points: Navigation-16 Points.ipynb
+Project Report: Navigation Project Report.pdf
